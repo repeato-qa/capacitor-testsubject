@@ -1,0 +1,10 @@
+{
+  "appId": "app.repeato.dummyapp",
+  "appName": "Repeato Dummy App",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
