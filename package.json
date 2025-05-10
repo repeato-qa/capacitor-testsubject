@@ -27,6 +27,7 @@
     "@capacitor/android": "^7.2.0",
     "@capacitor/cli": "^7.2.0",
     "@capacitor/core": "^7.2.0",
+    "@capacitor/ios": "^7.2.0",
     "@chakra-ui/icons": "2.1.1",
     "@chakra-ui/react": "2.8.2",
     "@chakra-ui/system": "2.6.2",
