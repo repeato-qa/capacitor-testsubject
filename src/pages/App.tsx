@@ -35,7 +35,7 @@ export default function App() {
           <h2 className="text-4l text-center text-gray-600">Your first steps with the Repeato test automation framework</h2>
           <form onSubmit={handleLogin} className="space-y-6">
             <div>
-              <Label htmlFor="email" className="text-sm font-medium text-gray-700">Email Address</Label>
+              <Label resource-id="test-resource-id-email" htmlFor="email" className="text-sm font-medium text-gray-700">Email Address</Label>
               <Input 
                 type="email" 
                 id="email" 
